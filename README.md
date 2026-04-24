@@ -1,6 +1,7 @@
-![Pyspark Tinitiate Image](tinitiate-pyspark.png)
+<img width="1774" height="368" alt="pyspark" src="https://github.com/user-attachments/assets/b2015588-79cb-4325-bc4e-bd48c98fcdff" />
+
 # PySpark Training
-> Venkata Bhattaram &copy; TINITIATE.COM
+> Venkata Bhattaram & Jay Kumsi &copy; TINITIATE.COM
 
 ## PySpark Local Setup
 
